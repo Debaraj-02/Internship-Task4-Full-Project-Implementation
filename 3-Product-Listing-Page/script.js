@@ -1,8 +1,3 @@
-// ==============================
-// TechStore Product Listing Page
-// Part 1
-// ==============================
-
 // Product Data
 
 const products = [
